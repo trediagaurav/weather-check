@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://www.androidguys.com/wp-content/uploads/2015/11/earth-space-hd-wallpaper-2560x1600-9560.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+#root {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.form-inline {
+    color: aliceblue;
+    margin-bottom: 250px;
+}
